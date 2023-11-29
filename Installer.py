@@ -1,3 +1,3 @@
 import pip 
-pip.main(['install','wikipedia'])
+pip.main(['install','plyer'])
 
